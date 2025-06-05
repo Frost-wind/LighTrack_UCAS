@@ -12,7 +12,7 @@
 它位于科研级模拟（如 BATMAN/PHOEBE）与教学展示软件（如 WWT/NASA Eyes）之间，填补了中间层空白。  
 既适合**科研人员**进行参数调优和观测规划，也适合**教师与学生**用于直观的演示与学习。
 
-**如果要在个人windows端运行LighTrack软件，需要下载目录中的exe文件和dll文件，并放到同一个文件夹中。**
+---
 
 ## 🚀 本地运行LighTrack 0.2 软件（暂支持Windows系统）
 直接下载WindowDownload_LighTrack.zip到本地，解压缩并运行astro_info.exe可执行文件即可。
