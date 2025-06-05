@@ -14,6 +14,9 @@
 
 **如果要在个人windows端运行LighTrack软件，需要下载目录中的exe文件和dll文件，并放到同一个文件夹中。**
 
+## 🚀 本地运行LighTrack 0.2 软件（暂支持Windows系统）
+直接下载WindowDownload_LighTrack.zip到本地，解压缩并运行astro_info.exe可执行文件即可。
+
 ---
 
 ## 🎯 研究动机 | Motivation
